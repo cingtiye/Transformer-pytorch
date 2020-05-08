@@ -9,6 +9,7 @@
 执行程序时,直接打开main.ipynb就行
 
 针对程序的详细介绍,请转至[简书](https://www.jianshu.com/p/b0cf5520c4fa)
+
 torch版本: 1.1.0
 
 python版本: 3.7.0
